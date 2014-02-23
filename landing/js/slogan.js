@@ -1,17 +1,20 @@
 
 /**
- * 
+ *
  */
 $(function() {
-  
+
   var $attribute = $('#attribute'),
       i = 0,
       words = [
+        'together',
+        'collaboratively',
         'simple',
         'fast',
         'fun',
-        'collaborative',
-        'easy'
+        'easy',
+        'creatively',
+        'consensually'
       ];
 
   setInterval(function() {
