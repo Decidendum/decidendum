@@ -258,6 +258,22 @@ body {
   font-weight: 500;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000366}}
+#changing {
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000369}}
+#dump {
+  color: transparent;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000372}}
+#attribute {
+  position: absolute;
+  left: 0;
+}
+
 /*------------------------------------------------------------------------------
  * Shame
  *------------------------------------------------------------------------------
