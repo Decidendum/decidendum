@@ -1,0 +1,4 @@
+
+$(function() {
+  $('#subscribed a').smoothScroll();
+});
