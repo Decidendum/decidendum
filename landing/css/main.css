@@ -210,7 +210,7 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/decidendum\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000334}}
 #header > .container {
-  margin-top: 5%;
+  margin-top: -12%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/decidendum\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000337}}
 #header .btn-primary {
@@ -241,7 +241,6 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/decidendum\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000355}}
 #how-it-works {
-  display: none;
   height: 100vh;
   padding: 120px 0;
 }
