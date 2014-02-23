@@ -241,45 +241,46 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000355}}
 #how-it-works {
+  display: none;
   height: 100vh;
   padding: 120px 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000360}}
 #how-it-works > .container {
   height: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000363}}
 #how-it-works #slides {
   height: 100%;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000367}}
 #subscribed {
   display: none;
   margin-top: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000370}}
 #subscribed p {
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000372}}
 #subscribed a {
   color: white;
   font-weight: 500;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000376}}
 #changing {
   position: relative;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000379}}
 #dump {
   color: transparent;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/lucas\/www\/agora\/git\/landing\/sass\/partials\/parts\/_layout\.sass}line{font-family:\0000382}}
 #attribute {
   position: absolute;
   left: 0;
